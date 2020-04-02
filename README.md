@@ -24,7 +24,7 @@ Output: false
 Explanation: 14 is not ugly since it includes another prime factor 7.
 ```
 
-**Note: **
+**Note:**
 
 1. 1 is typically treated as an ugly number.
 2. Input is within the 32-bit signed integer range: [−231,  231 − 1].
